@@ -17,6 +17,10 @@ We implement the the second stage of extractive QA system, the machine reading s
 
 The file `venv.yml` contain all the required package which directly export from anaconda command line. You can also use anaconda to rebuild the virtual environment.
 
+# 3. Dataset(GermanQuAD)
+
+We use the [GermanQuAD](https://www.deepset.ai/germanquad) dataset for downstream task fine-tuning
+
 ## 3. Model
 
 The checkpoint file of our best model saved [there](https://cloud.mafiasi.de/s/Ds4jxjBZz725HcT).
