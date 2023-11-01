@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="1wang@wtmstuc2.informatik.uni-hamburg.de:22">
+    <serverData>
+      <paths name="1wang@wtmstuc2.informatik.uni-hamburg.de:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/export/home/1wang/projects/qa" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
